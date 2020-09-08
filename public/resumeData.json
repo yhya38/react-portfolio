@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name": "Yahiya Khan",
+    "occupation": "Student, Freelancer",
+    "description": "Front end web developer",
+    "image": "IG_Sonny.jpeg",
+    "bio": "Hey folks! My name is Yahiya Khan. I'm a Freelancer Web  Developer based in Banglore. Currently pursuing bachelor of degree in Computer Science & Engineering at VTU. I'm looking forward to work in-hand with the organizations which provide an intution of collective belonging, responsibility and an environment that nurtures the ideas of creativity.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "yahiyakhan2217@gmail.com",
+    "phone": "9036103964",
+    "address": {
+      "street": "Ghousia College of Engineering",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "Ramanagaram"
+    },
+    "website": "https://ykcreations.netlify.app/",
+    "resumedownload": "https://ykcreations.netlify.app/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/yahiya.khan.100046",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yahiya-khan-153a81184",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/its_a_y.a.khan/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/yhya38",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Skills",
+    "education": [
+      {
+        "school": "Shaheen Independent PU College Bidar ",
+        "degree": "PCMB",
+        "graduated": "JUNE 2017",
+        "description": "Graduated with First Class"
+      },
+      {
+        "school": "Ghousia College Of Engineering",
+        "degree": "B.E in Computer Science",
+        "graduated": "(August 2017 - August 2021)",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Aceess",
+        "title": "Team Member && Beginner in React",
+        "years": "April 2020 - Present",
+        "description": "Builded MFRID, an organisations website"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "HTML",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+
+      {
+        "name": "JS",
+        "level": "70%"
+      },
+      {
+        "name": "JQUERY",
+        "level": "60%"
+      },
+      {
+        "name": "PYTHON",
+        "level": "30%"
+      },
+      {
+        "name": "BOOTSTARP",
+        "level": "70%"
+      },
+      {
+        "name": "FIREBASE",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MFIRD",
+        "category": "An organisation to provide a common platform for professionals across industries.",
+        "image": "mfird.png",
+        "url": "https://mfird-staging.netlify.app/#"
+      },
+      {
+        "title": "YKCREATIONS",
+        "category": "It's My Official Portfolio Website    (ReactJS, MaterialUi, React-router-dom)",
+        "image": "ykcreations.png",
+        "url": "https://ykcreations.netlify.app/"
+      },
+      {
+        "title": "PORTFOLIO",
+        "category": "A Simpe Portfolio Static Portfolio which show the user information.",
+        "image": "portfolio-two.png",
+        "url": "https://yahiyyakhan.netlify.app/"
+      },
+      {
+        "title": "CALCULATOR",
+        "category": "A Simple Calculator Which Performes Arithmatif Operations.",
+        "image": "calculator.png",
+        "url": "https://simple-calci.netlify.app/"
+      },
+      {
+        "title": "Messenger Clone",
+        "category": "Messenger Clone built with ReactJS",
+        "image": "messenger-clone.png",
+        "url": "https://messenger-clone-b0703.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Yahiya is very hardworking and intelligent developer and very passionate about web developing.",
+        "user": "Aslam Khan"
+      },
+      {
+        "text": "Yahiya worked with us as a front-end web developer and proved himself to be a very dependable and smart individual with solid problem solving skills.",
+        "user": "Syed Mohammed"
+      }
+    ]
+  }
+}
