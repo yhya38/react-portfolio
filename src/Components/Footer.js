@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import React, { Component } from 'react';
 
 class Footer extends Component {
@@ -11,26 +12,34 @@ class Footer extends Component {
 
     return (
       <footer>
+        <div className="row">
+          <div className="twelve columns">
+            <ul className="social-links">{networks}</ul>
 
-     <div className="row">
-        <div className="twelve columns">
-           <ul className="social-links">
-              {networks}
-           </ul>
+            <ul>
+              <li>MADE WITH LOVE BY YAHIYA KHAN </li>
+            </ul>
 
-           <ul>
-              <li>MADE WITH LOVE ♥️ BY YAHIYA KHAN </li>
-           </ul>
-
-           <ul className="copyright">
+            <ul className="copyright">
               <li>&copy; 2020 YahiyaKhan</li>
-              <li>Design by <a title="https://ykcreations.netlify.app/about">Styleshout</a></li>
-           </ul>
-
+              <li>
+                Design by{""}
+                <a
+                  title="https://ykcreations.netlify.app/about"
+                  href="https://ykcreations.netlify.app/about"
+                >
+                   YKcreations
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="go-top">
+            <a className="smoothscroll" title="Back to Top" href="#home">
+              <i className="icon-up-open"></i>
+            </a>
+          </div>
         </div>
-        <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
-     </div>
-  </footer>
+      </footer>
     );
   }
 }

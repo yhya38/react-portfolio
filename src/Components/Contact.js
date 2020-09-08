@@ -1,7 +1,8 @@
+// eslint-disable-next-line
 import React, { useState } from 'react';
 
 const Contact = ({ data }) => {
-   const [url, setUrl] = useState('mailto:yahiyakhan2217@gmail.com.com?subject=subject&body=body');
+   // const [url, setUrl] = useState('mailto:yahiyakhan2217@gmail.com.com?subject=subject&body=body');
    const [name, setName] = useState('');
    const [subject, setSubject] = useState('');
    const [email, setEmail] = useState('');
